@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">1know Instructor</string>
+    <string name="action_logout">登出</string>
+
+    <string name="please_use_the_sharing_feature_to_launch_the_app">請透過分享功能啟動 App</string>
+    <string name="unsupported_shared_content">尚未支援的分享的內容</string>
+
+    <string name="error_fetching_data_please_try_again_later">取得資料錯誤，請稍候重試</string>
+    <string name="saved_data_error_please_try_again_later">儲存資料錯誤，請稍候重試</string>
+
+    <string name="get_course_error_please_try_again_later">取得課程錯誤，請稍候重試</string>
+    <string name="get_topic_error_please_try_again_later">取得主題錯誤，請稍候重試</string>
+
+    <string name="publish">發佈</string>
+    <string name="course_published">課程已發佈</string>
+
+    <string name="save">儲存</string>
+    <string name="unit_saved">單元已儲存</string>
+
+    <string name="course">課程</string>
+    <string name="topic">主題</string>
+    <string name="name">單元名稱</string>
+    <string name="description">單元說明</string>
+</resources>
